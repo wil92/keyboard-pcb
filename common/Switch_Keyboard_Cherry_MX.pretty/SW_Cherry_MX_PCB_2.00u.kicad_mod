@@ -41,7 +41,7 @@
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask) (tstamp fe3af5ba-9ace-4efe-8760-99ad2017a35b))
   (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 02027f3d-b481-4aa0-82e7-de7dea68543d))
   (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 317a6301-2c19-4014-9231-3209cb107546))
-  (model "${KIPRJMOD}/common/SW_Cherry_MX_PCB.wrl"
+  (model "${KIPRJMOD}/../common/SW_Cherry_MX_PCB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

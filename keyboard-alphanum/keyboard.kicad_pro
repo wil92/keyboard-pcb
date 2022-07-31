@@ -366,7 +366,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "../../../Desktop/keyboard.dsn",
+      "specctra_dsn": "../../../../Desktop/keyboard-alphanum.dsn",
       "step": "",
       "vrml": ""
     },
