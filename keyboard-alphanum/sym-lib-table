@@ -206,4 +206,5 @@
   (lib (name "Valve")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Valve.kicad_sym")(options "")(descr ""))
   (lib (name "Video")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Video.kicad_sym")(options "")(descr ""))
   (lib (name "symbols")(type "KiCad")(uri "${KIPRJMOD}/../common/symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32F103C6T6A")(type "Legacy")(uri "C:/Users/gonzalez.ext/Documents/KiCadProjects/keyboard/common/STM32F103C6T6A.lib")(options "")(descr ""))
 )

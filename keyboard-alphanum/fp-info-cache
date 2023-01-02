@@ -1,4 +1,4 @@
-20455023608970211
+20460011807853342
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -79475,7 +79475,7 @@ SW_Cherry_MX_PCB_2.00u_90deg
 Cherry MX keyswitch PCB Mount with 2.00u 90deg keycap
 Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.00u 90deg
 0
-4
+2
 2
 Switch_Keyboard_Cherry_MX
 SW_Cherry_MX_PCB_2.25u
@@ -86429,6 +86429,13 @@ LED
 2
 2
 common
+PJ320D
+PJ-320D-1
+Connector
+0
+4
+4
+common
 R_0603_1608Metric
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
@@ -86464,6 +86471,13 @@ SSOP 0.635
 28
 28
 common
+STM32F103C6T6A
+
+
+0
+48
+48
+common
 SW_Cherry_MX_PCB
 28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
 SSOP 0.65
@@ -86478,7 +86492,14 @@ QFP 0.8
 32
 32
 common
-USB_Micro-B_GCT_USB3076-30-A
+USB_A_Molex_105057_Vertical
+https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
+USB A Vertical
+0
+6
+5
+common
+USB_Micro-B_A01SB141B1-245
 GCT Micro USB https://gct.co/files/drawings/usb3076.pdf
 Micro-USB SMD Typ-B GCT
 0
