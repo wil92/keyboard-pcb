@@ -449,7 +449,7 @@
       "idf": "",
       "netlist": "../../../../Desktop/",
       "specctra_dsn": "../../../../Desktop/keyboard-alphanum.dsn",
-      "step": "",
+      "step": "keyboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

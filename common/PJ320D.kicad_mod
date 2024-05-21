@@ -57,9 +57,9 @@
   (pad "R2" smd rect (at 0.2 -3.25) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aee60a3d-1b11-4f8b-a160-697365d11caa))
   (pad "S" smd rect (at -2.8 -3.25) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a1c48b69-8df9-405e-b9a8-c5ddf66d76cd))
   (pad "T" smd rect (at 5.2 3.25) (size 1.2 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 309a1f8a-3621-48f4-8986-29872edf7655))
-  (model "${KIPRJMOD}/../common/PJ-320D.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KIPRJMOD}/../common/PJ-320D-A.STEP"
+    (offset (xyz -1 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
