@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KIPRJMOD}/../common/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "common")(type "KiCad")(uri "${KIPRJMOD}/../common")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/../common/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+)
